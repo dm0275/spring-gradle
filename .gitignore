@@ -1,0 +1,7 @@
+#Gradle directories
+gradle/
+.gradle/
+out/
+
+#intelliJ Directories
+.idea/
