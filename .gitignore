@@ -1,7 +1,9 @@
 #Gradle directories
 gradle/
 .gradle/
+build/
 out/
 
 #intelliJ Directories
 .idea/
+*.iml
